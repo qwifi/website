@@ -1,126 +1,112 @@
-body
-{
-background-image:url('images/qrcode2.png');
-background-attachment:fixed;
+body {
+	background-image: url('images/qrcode2.png');
+	background-attachment: fixed;
 }
 
-.companyName
-{
-    margin-left:auto;
-    margin-right:auto;
-    width:700px;
-    height: 100px;
-    background:rgb(221, 221, 255);
-    border-style:solid;
-    border-width:2px;
-    border-color:white;
-border-radius: 15px;
+.companyName {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: 100px;
+	background: rgb(221, 221, 255);
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
 }
 
-.companyName p
-{
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:0px;
-	margin-bottom:0px;
-	font-weight:bold;
+.companyName p {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
 	font-size: 65px;
-	text-align:center;
-	font-family:"Veranda", sans-serif;
+	text-align: center;
+	font-family: "Veranda", sans-serif;
 }
 
-.linkBar
-{
-    margin-left:auto;
-    margin-right:auto;
-    width:700px;
-    height: 55px;
-    background:rgb(221, 221, 255);
-    border-style:solid;
-    border-width:2px;
-    border-color:white;
-border-radius: 15px;
-margin-top: 20px;
-
+.linkBar {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: 55px;
+	background: rgb(221, 221, 255);
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+	margin-top: 20px;
 }
-.linkBar p
-{
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:0px;
-	margin-bottom:0px;
-	font-weight:bold;
+
+.linkBar p {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
 	font-size: 38px;
-	text-align:center;
-	font-family:"Veranda", sans-serif;
-}
-a:link 
-{
-color:#000000;
+	text-align: center;
+	font-family: "Veranda", sans-serif;
 }
 
-a:visited 
-{
-color:#000000;
+a:link {
+	color: #000000;
 }
 
-a:hover 
-{
-color:#000000;
+a:visited {
+	color: #000000;
 }
 
-a:active
-{
-color:#000000;
+a:hover {
+	color: #000000;
 }
 
-.mainBody
-{
-    margin-left:auto;
-    margin-right:auto;
-    width:700px;
-    background:rgb(221, 221, 255);
-    border-style:solid;
-    border-width:2px;
-    border-color:white;
-    margin-top: 20px;
-border-radius: 15px;
+a:active {
+	color: #000000;
 }
 
-.mainBody p
-{
-text-align:center;
-  font-weight:bold;
-  color:#000000;
-  font-size:20px;
-  font-family:"Veranda", sans-serif;	
+.mainBody {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	background: rgb(221, 221, 255);
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	margin-top: 20px;
+	border-radius: 15px;
 }
 
-.mainBody h1
-{
-text-align:center;
+.mainBody p {
+	text-align: center;
+	font-weight: bold;
+	color: #000000;
+	font-size: 20px;
+	font-family: "Veranda", sans-serif;
 }
 
-.mainBody h2
-{
-text-align:center;
- margin-top:0px;
- margin-bottom:0px;
+.mainBody h1 {
+	text-align: center;
 }
 
-.mainBody h3
-{
-text-align:center;
- margin-top:0px;
- margin-bottom:0px;
+.mainBody h2 {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
-img
-{
-display:block;
-    margin-left:auto;
-    margin-right:auto;
-    margin-left:auto;
-    margin-right:auto;
-z-index:1;
+.mainBody h3 {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 1;
 }
