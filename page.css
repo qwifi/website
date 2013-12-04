@@ -7,36 +7,28 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 700px;
-	height: 100px;
-	background: rgb(221, 221, 255);
+	background: rgba(221, 221, 255, 0.8);
 	border-style: solid;
 	border-width: 2px;
 	border-color: white;
 	border-radius: 15px;
-}
-
-.companyName p {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	font-weight: bold;
 	font-size: 65px;
 	text-align: center;
 	font-family: "Veranda", sans-serif;
+	padding: 5px;
 }
 
 .linkBar {
 	margin-left: auto;
 	margin-right: auto;
 	width: 700px;
-	height: 55px;
-	background: rgb(221, 221, 255);
+	background: rgba(221, 221, 255, 0.8);
 	border-style: solid;
 	border-width: 2px;
 	border-color: white;
 	border-radius: 15px;
 	margin-top: 20px;
+	padding: 5px;
 }
 
 .linkBar p {
@@ -70,12 +62,13 @@ a:active {
 	margin-left: auto;
 	margin-right: auto;
 	width: 700px;
-	background: rgb(221, 221, 255);
+	background: rgba(221, 221, 255, 0.8);
 	border-style: solid;
 	border-width: 2px;
 	border-color: white;
 	margin-top: 20px;
 	border-radius: 15px;
+	padding: 5px;
 }
 
 .mainBody p {
